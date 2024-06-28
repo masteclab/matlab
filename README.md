@@ -1,3 +1,3 @@
 # matlab
 
-This repository contains MATLAB code, scripts and functions
+This repository contains a collection of matlab code, scripts and functions.
